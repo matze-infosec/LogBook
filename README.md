@@ -2,115 +2,58 @@
 This is a collection of even IDs broken down into categories. This list is growing and would benefit from contributions from people with first hand knowledge on diffrent event id's from difrent sources.
 
 # OS
-Windows:
 
-- Windows OS Events
+ OS | Link | status 
+----|------|-------
+Windows | N/A | N/A
+Linux | N/A | N/A
+Mac | N/A | N/A
 
-Linux:
+# Switches
 
-- filler
-
-Mac:
-
-- filler
-
-Switches
-Cisco:
-
-- filler
-
-Juniper:
-
-- filler
-
-Dell:
-
-- filler
-
-MikroTik:
-
-- filler
-
-Netgear:
-
-- filler
+ Switch | Link | status 
+--------|------|-------
+Cisco | N/A | N/A
+Juniper | N/A | N/A
+Dell | N/A | N/A
+MicroTik | N/A | N/A
+Netgear | N/A | N/A
 
 # Routers
-Cisco:
 
-- filler
-
-Juniper:
-
-- filler
-
-Dell:
-
-- filler
-
-MikroTik:
-
-- filler
-
-Netgear:
-
-- filler
+ Router | Link | status 
+--------|------|-------
+Cisco | N/A | N/A
+Juniper | N/A | N/A
+Dell | N/A | N/A
+MicroTik | N/A | N/A
+Netgear | N/A | N/A
 
 # Firewalls
-Cisco:
 
-- filler
-
-Juniper:
-
-- filler
-
-Dell:
-
-- filler
-
-MikroTik:
-
-- filler
-
-Netgear:
-
-- filler
-
-PHsense:
-
-- filler
+ Firewalls | Link | status 
+-----------|------|-------
+Cisco | N/A | N/A
+Juniper | N/A | N/A
+Dell | N/A | N/A
+MicroTik | N/A | N/A
+Netgear | N/A | N/A
+PFsense | N/A | N/A
 
 # Infrastructure
-Office 365:
 
-- Office 365 Event Codes
-
-Kaseya:
-
-- filler
-
-Exchange:
-
-- Exchange
-
-SharePoint:
-
-- SharePoint
+ Infrastructre | Link | status 
+---------------|------|-------
+Office365 | N/A | N/A
+Kaseya | N/A | N/A
+Exchange | N/A | N/A
+Sharepoint | N/A | N/A
 
 # Security tools
-Snort:
 
-- filler
-
-Suricata:
-
-- filler
-
-Wazuh:
-
-- filler
-
-Sysmon:
-
-- Sysmon
+ Security Tool | Link | status 
+----|------|-------
+Snort | N/A | N/A
+Suricata | N/A | N/A
+Wazuh | N/A | N/A
+Sysmon | N/A | N/A
