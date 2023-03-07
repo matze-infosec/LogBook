@@ -56,4 +56,4 @@ Sharepoint | N/A | N/A
 Snort | N/A | N/A
 Suricata | N/A | N/A
 Wazuh | N/A | N/A
-Sysmon | N/A | N/A
+Sysmon | [link](https://github.com/matze-infosec/LogBook/blob/main/Assets/Security%20Tools/Sysmon.md) | N/A
