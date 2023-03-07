@@ -44,7 +44,7 @@ PFsense | N/A | N/A
 
  Infrastructre | Link | status 
 ---------------|------|-------
-Office365 | N/A | N/A
+Office365 | [link](https://github.com/matze-infosec/LogBook/blob/main/Assets/Infrastructure/Office%20365%20Event%20Codes.md) | Local
 Kaseya | N/A | N/A
 Exchange | N/A | N/A
 Sharepoint | N/A | N/A
@@ -56,4 +56,4 @@ Sharepoint | N/A | N/A
 Snort | N/A | N/A
 Suricata | N/A | N/A
 Wazuh | N/A | N/A
-Sysmon | [link](https://github.com/matze-infosec/LogBook/blob/main/Assets/Security%20Tools/Sysmon.md) | N/A
+Sysmon | [link](https://github.com/matze-infosec/LogBook/blob/main/Assets/Security%20Tools/Sysmon.md) | Local
